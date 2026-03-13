@@ -1,12 +1,12 @@
 # Project: Kartu Nama Digital 🪪
-nama: rika d.m sembiring
-nim:243303621282
-sistem informasi
+Nama: Rika D.M Sembiring
+Nim:243303621282
+Sistem Informasi
 
 Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Screenshots
-![Preview Aplikasi](link_ke_foto_lo.png)
+![Preview Aplikasi](https://img.sanishtech.com/u/e2c67b057b6248dd32dfa696026ee2c7.jpg)
 
 ## 🛠️ Tech Stack
 - **Framework:** React Native (Expo SDK 50)
